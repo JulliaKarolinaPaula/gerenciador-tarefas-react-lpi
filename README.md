@@ -171,19 +171,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Interface
-
-A aplicação possui:
-
-* Layout moderno e responsivo;
-* Fundo com gradiente;
-* Estatísticas em destaque;
-* Filtros de tarefas;
-* Efeitos visuais de interação;
-* Organização intuitiva para o usuário.
-
----
-
 ## 🔮 Melhorias Futuras
 
 Possíveis evoluções para o projeto:
@@ -201,4 +188,5 @@ Possíveis evoluções para o projeto:
 ## 👨‍💻 Autor
 - Jullia Karolina de Paula
 - julliakarolinadev@gmail.com
+
 Projeto desenvolvido para fins acadêmicos como prática dos conceitos fundamentais de React JS, Context API e gerenciamento de estado em aplicações front-end.
